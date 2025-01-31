@@ -1,4 +1,4 @@
-name: CI/CD Workflow for SpringGitExample
+name: CI/CD Workflow for myapp
 
 on:
   push:
